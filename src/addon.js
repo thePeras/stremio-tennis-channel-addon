@@ -31,7 +31,7 @@ async function init() {
 
         streams = [ 
             {
-                id: "tennis_tv:123",
+                id: "tennis_tv:11",
                 type: "tv",
                 name: "Tennis Channel",
                 poster: constants.thumbnail,
